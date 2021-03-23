@@ -1,0 +1,12 @@
+{
+  "name": "Gtask",
+  "displayName": "Gtask",
+  "expo": {
+    "name": "Gtask",
+    "slug": "Gtask",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
